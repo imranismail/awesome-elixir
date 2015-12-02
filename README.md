@@ -182,12 +182,14 @@ A curated list of amazingly awesome Elixir libraries, resources, and shiny thing
 * [ueberauth_identity](https://github.com/ueberauth/ueberauth_identity) - A simple username/password strategy for Überauth.
 * [ueberauth_slack](https://github.com/ueberauth/ueberauth_slack) - A Slack strategy for Überauth.
 * [xoauth2](https://github.com/craigp/elixir_xoauth2) - A simple XOAuth2 module for Elixir.
+* [sentry](https://github.com/imranismail/sentry) - Authentication for plug based application simplified
 
 ## Authorization
 *Libraries for implementing Authorization handling.*
 
 * [canary](https://github.com/cpjk/canary) - An authorization library for Elixir applications that restricts what resources the current user is allowed to access.
 * [openmaize](https://github.com/elixircnx/openmaize) - Authentication and authorization library for Elixir.
+* [sentry](https://github.com/imranismail/sentry) - Authorization using pure elixir modules
 
 ## Behaviours and Interfaces
 *Definitions how something should behave, like Interfaces from OOP-World*
